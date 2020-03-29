@@ -14,4 +14,8 @@ class TestFibonacci{
     assertTrue(Fibonacci.getFib(12) == 89);
 
   }
+  public void Testcase4(){
+    assertTrue(Fibonacci.getFib(13) == 144);
+
+  }
 }
